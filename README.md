@@ -1,11 +1,5 @@
 # ConUHacks 2018
-
-<table>
-<tr>
-<td><img src="https://drive.google.com/file/d/11VVANOuHWBeSUPygZ-i8VKLAXDxge0XP/view?usp=sharing" name="1"/></td>
-<td><img src="https://drive.google.com/file/d/16Sp6O8h-B9Qz3ZDJW9G_kdNBmw7m1WVo/view?usp=sharing" name="2"/></td>
-</tr>
-</table>
+![image](https://i.ibb.co/qYxnZv9/image.jpg)
 
 # Inspiration
 The impact of the STEM fields in today's world is ever-growing. However, we recognize that there exists a stigma towards studying in them as they are too "difficult" or math heavy. We believe that by automating common rote calculations, students will be able to focus more on the important, physical concepts
