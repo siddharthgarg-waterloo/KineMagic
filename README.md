@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td><img src="https://puu.sh/zbwqw/7b5f5dca12.png" name="1"/></td>
-<td><img src="https://puu.sh/zbwqs/a8633b5c19.png" name="2"/></td>
+<td><img src="https://drive.google.com/file/d/11VVANOuHWBeSUPygZ-i8VKLAXDxge0XP/view?usp=sharing" name="1"/></td>
+<td><img src="https://drive.google.com/file/d/16Sp6O8h-B9Qz3ZDJW9G_kdNBmw7m1WVo/view?usp=sharing" name="2"/></td>
 </tr>
 </table>
 
