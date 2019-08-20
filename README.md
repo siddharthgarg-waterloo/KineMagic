@@ -1,5 +1,5 @@
 # ConUHacks 2018
-![image](https://i.ibb.co/qYxnZv9/image.jpg)
+![image](http://u.cubeupload.com/coding_ninja24/newImage.jpg)
 
 # Inspiration
 The impact of the STEM fields in today's world is ever-growing. However, we recognize that there exists a stigma towards studying in them as they are too "difficult" or math heavy. We believe that by automating common rote calculations, students will be able to focus more on the important, physical concepts
