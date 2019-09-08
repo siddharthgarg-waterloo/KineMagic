@@ -1,4 +1,4 @@
-# ConUHacks 2018
+# KineMagic
 ![image](http://u.cubeupload.com/coding_ninja24/newImage.jpg)
 
 # Inspiration
